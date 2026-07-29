@@ -120,8 +120,7 @@ graph TD
 
 ## 📂 Folder Structure
 
-```
-tanuja-blogs/
+``blogs/
 ├── ai-blog-front/       # Next.js Frontend application
 │   ├── src/             # Components, Pages, and Hooks
 │   ├── public/          # Static assets (Images, Icons)
