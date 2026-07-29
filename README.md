@@ -5,7 +5,7 @@ An intelligent platform for automating blog content generation, curation, and pu
 ---
 
 ## 📽️ Project Overview
-**Tanuja AI Hub** is a full-stack AI-powered blogging solution. It allows users to automate the research, writing, and publishing of high-quality blog posts. By integrating advanced LLMs and robust web scraping, it reduces the time spent on content ideation and drafting from hours to seconds.
+**Bhargavi AI Hub** is a full-stack AI-powered blogging solution. It allows users to automate the research, writing, and publishing of high-quality blog posts. By integrating advanced LLMs and robust web scraping, it reduces the time spent on content ideation and drafting from hours to seconds.
 
 ## 🏗️ Project Architecture & Workflow
 The system follows a classic **Client-Server-Database** architecture with an added **AI/Job** layer for asynchronous processing.
@@ -185,4 +185,4 @@ The project is designed to be easily deployed:
 
 ---
 
-**Developed with ❤️ by Tanuja AI Team**
+**Developed with ❤️ by Bhargavi AI Team**
